@@ -4,7 +4,7 @@
 
 I build scalable, user-centric web interfaces using modern JavaScript and frontend ecosystems. With years of experience designing and architecting UI solutions, I enjoy turning complex problems into clean, intuitive experiences.
 
-buildcv.makedifference.app (resume builder with AI resume coach chatbot)
+[buildcv.makedifference.app](https://buildcv.makeadifference.app/) (resume builder with AI resume coach chatbot)
 
 🚀 **What I Do**
 
@@ -29,7 +29,7 @@ HTML · CSS · Design Systems · Git
 When I’m not coding, you’ll find me:
 
 - 👨🏽‍💻 Diving into open source projects 
-- 📝 Writing about UI patterns and frontend best practices (blog.makeadifference.app)
+- 📝 Writing about UI patterns and frontend best practices ([blog.makeadifference.app](https://buildcv.makeadifference.app/))
 - ⏳ Learning about design systems and performance optimization
 - 🏸 Play badminton
 - 🎸 Play guitar
